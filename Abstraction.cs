@@ -1,6 +1,6 @@
-public abstract class Payment
+public abstract class Payment//creating abstract class
 {
-    public abstract void pay();
+    public abstract void pay();//creating abstract method
     public void showMessage()
     {
         Console.WriteLine("Processing Payment");
@@ -9,7 +9,7 @@ public abstract class Payment
 
 public class UPIPayment:Payment
 {
-    public override void pay()
+    public override void pay()// OVerriding Abstract method
     {
         Console.WriteLine("UPI Payment Done");
     }
