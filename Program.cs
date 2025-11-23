@@ -6,8 +6,13 @@
         // Student studentMarks = new Student();
         // Payment UPIPayment1 = new  UPIPayment();
         // Payment CardPayment1 = new CardPayment();
-        Book getBook = new Book("Legendary Book", "Parth", 100);
-        getBook.GetInfo();
+        // Book getBook = new Book("Legendary Book", "Parth", 100);
+        // getBook.GetInfo();
+        Car mycar = new Car();
+        mycar.Brand ="Mercedes";
+        mycar.Speed = 100;
+        mycar.honk();
+        mycar.start();
 
 
         // UPIPayment1.pay();
