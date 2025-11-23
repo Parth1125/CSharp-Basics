@@ -12,3 +12,4 @@ D:\Playground\obj\Debug\net10.0\refint\Playground.dll
 D:\Playground\obj\Debug\net10.0\Playground.pdb
 D:\Playground\obj\Debug\net10.0\Playground.genruntimeconfig.cache
 D:\Playground\obj\Debug\net10.0\ref\Playground.dll
+D:\Playground\obj\Debug\net10.0\Playground.sourcelink.json
